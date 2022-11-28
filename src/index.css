@@ -1,13 +1,70 @@
 body {
-  margin: 0;
+  margin: 10%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  align-content: center;
+  justify-content: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+img {
+  max-width: 250px;
+}
+
+p {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.Item {
+  background-color: bisque;
+  align-content: center;
+  max-width: 500px;
+  padding: 15px;
+  border-radius: 4%;
+}
+
+.Container1 {
+  display: grid;
+  margin: 15px;
+  grid-gap: 30px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  min-width: 1000px;
+}
+
+.Container2 {
+  margin: 30px;
+}
+
+.MainGrid {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  margin-right: 35px;
+  align-items: start;
+}
+
+.SideBar {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 35px 0 50px;
+  padding: 25px 20px 0;
+  border: 2px solid #d2d2d2;
+  border-radius: 10px;
+  box-shadow: 0 1px 1px #d2d2d2;
+}
+
+button {
+  margin: 5%
+}
+
+h2 {
+  margin-bottom: 10px;
 }

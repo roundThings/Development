@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Mister Lincoln",
+        "description": "A very well-known hybrid tea. Long-pointed buds open into large, well-formed, long stemmed, fully double, blooms of deep red.",
+        "price": 40.00,
+        "type": "Hybrid Tea",
+        "color": "Red",
+        "image": "images/Mister_Lincoln.jpeg"
+    },
+    {
+        "name": "Golden Celebration",
+        "description": "These magnificent flowers are held on a very good repeat blooming shrub of ideal rounded habit of growth. The foliage is a dark glossy green that shows them off to perfection. Makes a good hedge.",
+        "price": 48.00,
+        "type": "Floribunda",
+        "color": "Yellow",
+        "image": "images/golden-celebration.jpeg"
+    },
+    {
+        "name": "Sugar Moon",
+        "description": "Clean white full blooms with a strong citrus fragrance has pointed buds. Tall, bushy, upright. Large, glossy, dark green foliage. ",
+        "price": 38.00,
+        "type": "Hybrid Tea",
+        "color": "White",
+        "image": "images/sugar-moon.jpeg"
+    },
+    {
+        "name": "Oranges 'n' Lemons",
+        "description": "Medium to large  are fully double and produced in clusters, having a mild fruity fragrance.",
+        "price": 41.50,
+        "type": "Floribunda",
+        "color": "Multi",
+        "image": "images/oranges-n-lemons-3_5.jpeg"
+    },
+    {
+        "name": "Thérèse Bugnet",
+        "description": "With the beauty of a Damask this rose has wonderful repeat blooming, old-fashioned ruffled blooms of lilac pink plus a slight spicy fragrance produced on almost thornless canes.",
+        "price": 29.40,
+        "type": "Climber",
+        "color": "Pink",
+        "image": "images/therese-bugnet-1.jpeg"
+    },
+    {
+        "name": "Compassion®",
+        "description": "A profuse continual blooming climber that should find a spot in every garden. The marvelous honey/peach fragrance of 'Compassion' has earned it the RNRS winner of Edland Medal for fragrance. Makes a good cut flower.",
+        "price": 33.60,
+        "type": "Climber",
+        "color": "Pink",
+        "image": "images/compassion-5_8.jpeg"
+    },
+    {
+        "name": "Molineux®",
+        "description": "Exceptional freedom of bloom and a wonderful fruity fragrance. 'Molineux' is one of the more compact growing of Austin's roses and should be most useful in smaller gardens. A bushy plant that will bloom continually.",
+        "price": 48.00,
+        "type": "Floribunda",
+        "color": "Yellow",
+        "image": "images/molinuex-1_1.jpeg"
+    },
+    {
+        "name": "Hot Cocoa",
+        "description": "Hot Cocoa™ displays an unusual coloring of a smoky, chocolate-orange which stays vibrant over time and beautifully contrasts her glossy, dark-green foliage. ",
+        "price": 36.40,
+        "type": "Floribunda",
+        "color": "Red",
+        "image": "images/hot-cocoa-4_8.jpeg"
+    },
+    {
+        "name": "CL Iceberg",
+        "description": "The continual blooming sport of the outstanding Floribunda, `Iceberg'. In the spring it is covered with clouds of pure white, semi-double blooms exuding a honey fragrance. 20-25 petals.",
+        "price": 38.50,
+        "type": "Climber",
+        "color": "White",
+        "image": "images/cl-iceberg-8.jpeg"
+    },
+    {
+        "name": "America™",
+        "description": "America is a climbing rose with dark green leathery leaves lovely salmon-pink with lighter reverse fully double blooms",
+        "price": 38.50,
+        "type": "Hybrid Tea",
+        "color": "Pink",
+        "image": "images/america-12.jpeg"
+    },
+    {
+        "name": "Purple Tiger",
+        "description": "Prepare to be stunned by the unique splash of Purple Tiger. Each unique bloom and petal seems to explode in a colorful rhythm of slashes, dashes, streaks, and dots run amok. A citrus-sweet perfume is an added bonus to this one of a kind specimen.",
+        "price": 41.60,
+        "type": "Floribunda",
+        "color": "Multi",
+        "image": "images/purple-tiger-2_1.jpeg"
+    },
+    {
+        "name": "Rock & Roll™",
+        "description": "A flashy climber that is striped and splashed burgundy, red & white. Strong, fruity, rose fragrance. Medium-large, very full blooms. This garden cast member will play the lead role.",
+        "price": 50.00,
+        "type": "Climber",
+        "color": "Multi",
+        "image": "images/rock-_-roll-1_1.jpeg"
+    }
+]
