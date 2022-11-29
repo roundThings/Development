@@ -49,9 +49,13 @@ function App() {
     };
   }
 
-  const firstFilteredData = gardenData.filter(matchesFilterType)
-  const filteredData = firstFilteredData.filter(matchesFilterColor)
   const sortedData = sortData(gardenData)
+
+  console.log(sortedData)
+
+  const firstFilteredData = sortedData.filter(matchesFilterType)
+  const filteredData = firstFilteredData.filter(matchesFilterColor)
+
 
   return (
     <div className="App">

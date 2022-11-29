@@ -29,18 +29,18 @@ export default function Agra(props) {
 
             <div class="Container2">
                 <h2>Sort</h2>
-                <Nav id="sort" variant="pills" defaultActiveKey="High to Low" onSelect={selectSortType} activeKey={props.sort}>
+                <Nav variant="pills" defaultActiveKey="High to Low" onSelect={selectSortType} activeKey={props.sort}>
                     <Nav.Item>
                         <Nav.Link eventKey="High to Low"> High to Low </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link eventKey="Low to High">Low to High</Nav.Link>
+                        <Nav.Link eventKey="Low to High"> Low to High</Nav.Link>
                     </Nav.Item>
                 </Nav>
             </div>
             <div class="Container2">
                 <h2>Type</h2>
-                <Nav id="type" variant="pills" defaultActiveKey="All" onSelect={selectFilterType} activeKey={props.type}>
+                <Nav variant="pills" defaultActiveKey="All" onSelect={selectFilterType} activeKey={props.type}>
                     <Nav.Item>
                         <Nav.Link eventKey="All"> All</Nav.Link>
                     </Nav.Item>
@@ -57,7 +57,7 @@ export default function Agra(props) {
             </div>
             <div class="Container2">
                 <h2>Color</h2>
-                <Nav id="color" variant="pills" defaultActiveKey="All" onSelect={selectFilterColor} activeKey={props.color}>
+                <Nav variant="pills" defaultActiveKey="All" onSelect={selectFilterColor} activeKey={props.color}>
                     <Nav.Item>
                         <Nav.Link eventKey="All"> All</Nav.Link>
                     </Nav.Item>
