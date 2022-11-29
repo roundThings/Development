@@ -41,7 +41,9 @@ p {
 }
 
 .Container2 {
-  margin: 30px;
+  margin: 10px;
+  align-items: stretch;
+  justify-content: space-between;
 }
 
 .Container3 {
@@ -71,4 +73,9 @@ button {
 
 h2 {
   margin-bottom: 10px;
+}
+
+.nav {
+  align-items: center;
+  justify-content: center;
 }

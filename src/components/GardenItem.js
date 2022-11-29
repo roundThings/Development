@@ -56,6 +56,7 @@ export default function GardenItem(props) {
         <img src={props.image}></img>
         <p>{props.description}</p>
         <p>{props.type}</p>
+        <p>{props.color}</p>
         <h2>${props.price}</h2>
         <button onClick={handleClickAdd}>Add
         </button>
