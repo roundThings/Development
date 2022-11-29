@@ -5,7 +5,7 @@
         "price": 40.00,
         "type": "Hybrid Tea",
         "color": "Red",
-        "image": "images/Mister_Lincoln.jpeg"
+        "image": "image/Mister_Lincoln.jpeg"
     },
     {
         "name": "Golden Celebration",
@@ -13,7 +13,7 @@
         "price": 48.00,
         "type": "Floribunda",
         "color": "Yellow",
-        "image": "images/golden-celebration.jpeg"
+        "image": "image/golden-celebration.jpeg"
     },
     {
         "name": "Sugar Moon",
@@ -21,7 +21,7 @@
         "price": 38.00,
         "type": "Hybrid Tea",
         "color": "White",
-        "image": "images/sugar-moon.jpeg"
+        "image": "image/sugar-moon.jpeg"
     },
     {
         "name": "Oranges 'n' Lemons",
@@ -29,15 +29,15 @@
         "price": 41.50,
         "type": "Floribunda",
         "color": "Multi",
-        "image": "images/oranges-n-lemons-3_5.jpeg"
+        "image": "image/oranges-n-lemons-3_5.jpeg"
     },
     {
         "name": "Thérèse Bugnet",
         "description": "With the beauty of a Damask this rose has wonderful repeat blooming, old-fashioned ruffled blooms of lilac pink plus a slight spicy fragrance produced on almost thornless canes.",
         "price": 29.40,
-        "type": "Climber",
+        "type": "Hybrid Tea",
         "color": "Pink",
-        "image": "images/therese-bugnet-1.jpeg"
+        "image": "image/therese-bugnet-1.jpeg"
     },
     {
         "name": "Compassion®",
@@ -45,7 +45,7 @@
         "price": 33.60,
         "type": "Climber",
         "color": "Pink",
-        "image": "images/compassion-5_8.jpeg"
+        "image": "image/compassion-5_8.jpeg"
     },
     {
         "name": "Molineux®",
@@ -53,7 +53,7 @@
         "price": 48.00,
         "type": "Floribunda",
         "color": "Yellow",
-        "image": "images/molinuex-1_1.jpeg"
+        "image": "image/molinuex-1_1.jpeg"
     },
     {
         "name": "Hot Cocoa",
@@ -61,7 +61,7 @@
         "price": 36.40,
         "type": "Floribunda",
         "color": "Red",
-        "image": "images/hot-cocoa-4_8.jpeg"
+        "image": "image/hot-cocoa-4_8.jpeg"
     },
     {
         "name": "CL Iceberg",
@@ -69,7 +69,7 @@
         "price": 38.50,
         "type": "Climber",
         "color": "White",
-        "image": "images/cl-iceberg-8.jpeg"
+        "image": "image/cl-iceberg-8.jpeg"
     },
     {
         "name": "America™",
@@ -77,7 +77,7 @@
         "price": 38.50,
         "type": "Hybrid Tea",
         "color": "Pink",
-        "image": "images/america-12.jpeg"
+        "image": "image/america-12.jpeg"
     },
     {
         "name": "Purple Tiger",
@@ -85,7 +85,7 @@
         "price": 41.60,
         "type": "Floribunda",
         "color": "Multi",
-        "image": "images/purple-tiger-2_1.jpeg"
+        "image": "image/purple-tiger-2_1.jpeg"
     },
     {
         "name": "Rock & Roll™",
@@ -93,6 +93,6 @@
         "price": 50.00,
         "type": "Climber",
         "color": "Multi",
-        "image": "images/rock-_-roll-1_1.jpeg"
+        "image": "image/rock-_-roll-1_1.jpeg"
     }
 ]

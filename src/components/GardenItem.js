@@ -3,6 +3,7 @@ import "../App.css";
 
 export default function GardenItem(props) {
 
+
     function handleClickAdd() {
         props.setCart(addToCart(props.cart, props.name))
         props.setTotal(addToTotal(props.total, props.price))
