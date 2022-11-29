@@ -40,7 +40,6 @@ function App() {
     }
   }
 
-
   const sortData = gardenData => {
     if (sort === "High to Low") {
       return gardenData.sort((a, b) => b.price - a.price);
@@ -64,7 +63,7 @@ function App() {
           ))}
         </div>
         <div class="SideBar">
-          <Agra cart={cart} setCart={setCart} total={total} setTotal={setTotal} setColor={setColor} setType={setType} setSort={setSort} />
+          <Agra cart={cart} setCart={setCart} total={total} setTotal={setTotal} color={color} setColor={setColor} type={type} setType={setType} sort={sort} setSort={setSort} />
         </div>
       </div>
     </div>
