@@ -44,11 +44,10 @@ function App() {
   }
 
   const reset = general => {
-    setColor("All")
-    setType("All")
-    setSort("High to Low")
     setCart({})
     setTotal(0)
+    setType("All")
+    setColor("All")
   };
 
   const selectFilterColor = eventKey => {
